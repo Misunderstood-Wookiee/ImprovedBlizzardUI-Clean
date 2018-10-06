@@ -10,9 +10,9 @@ ________________________________________________________________________________
 ### Plus Edition? What gives.
 As this suggests includes fixes for oversights & handles my personal gripes/desires. I do keep this updated as required via mergeing whenever Kytotes pushes fixes which do not directly conflict too maintain coherency between the original and this fork however due to Kaytots no longer providing support for BFA this version will likely be updated with better fixes, don't worry this version is still kept up-to date with the latest stability changes from Kytotos when they are made available.
 
-The scope of this project/addon is staying true to the original where possible without major change to how the UI functions from the original, the original addon has been my primary UI for sometime now and I literaly refuse to play without it haha.
+The scope of this project/addon is staying true to the original where possible without major change to how the UI functions from the original, the original addon has been my primary UI for sometime now and I refuse to play without it.
 
-*It appears Kytotes is no longer providing support for BFA (shrug)*
+*It appears Kytotes is no longer providing immediate support for BFA (shrug)*
 I also pull request any major fixes over to Kaytoes's original project though when or if he accepts those and pushes a new build to curse/twitch is out of my control.
 _________________________________________________________________________________________________________________
 ### Recommended Addons
