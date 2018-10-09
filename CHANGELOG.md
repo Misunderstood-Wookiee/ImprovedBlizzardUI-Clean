@@ -1,5 +1,8 @@
 # Improved Blizzard UI +  Changelog
 
+## 1.1.9
+* Frame text size adjusted slightly for player, target, focus names.
+
 ## 1.1.8
 * Fixed bug in ToT sometimes performing an invalid operation when getting class colours.
 

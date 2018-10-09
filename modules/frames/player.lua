@@ -55,7 +55,7 @@ local function StyleFrames()
     local file, size, flags = PlayerFrameHealthBarTextLeft:GetFont();
     local r, g, b, a = PlayerFrameHealthBarTextLeft:GetTextColor();
 
-    PlayerName:SetFont(ImpFont, 11, flags);
+    PlayerName:SetFont(ImpFont, 10, flags);
     -- 10
     PlayerFrameHealthBarText:SetFont(ImpFont, 10, flags);
     PlayerFrameHealthBarTextLeft:SetFont(ImpFont, 10, flags);

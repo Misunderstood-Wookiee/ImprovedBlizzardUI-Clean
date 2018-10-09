@@ -54,7 +54,7 @@ local function StyleFocusFrame()
     local file, size, flags = PlayerFrameHealthBarTextLeft:GetFont();
     local r, g, b, a = PlayerFrameHealthBarTextLeft:GetTextColor();
 
-    FocusFrameTextureFrameName:SetFont(file, 11, flags);
+    FocusFrameTextureFrameName:SetFont(file, 10, flags);
     FocusFrameTextureFrameHealthBarText:SetTextColor(r, g, b, a);
     FocusFrameTextureFrameName:SetTextColor(r, g, b, a);
 
